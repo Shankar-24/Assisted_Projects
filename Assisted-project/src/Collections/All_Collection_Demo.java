@@ -25,6 +25,7 @@ public class All_Collection_Demo {
         List <String> ll=new LinkedList<String>();
 		System.out.println("Enter no. of stringss to be added to the Linkedlist");
         n=sc.nextInt();
+		sc.nextLine();
         System.out.println("Enter the strings");
         for(int i=0;i<n;i++)
         {
