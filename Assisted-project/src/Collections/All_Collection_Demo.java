@@ -20,7 +20,7 @@ public class All_Collection_Demo {
         }
         System.out.println(arr);
        
-        //Linked List
+        //Linked list
         String s;
         List <String> ll=new LinkedList<String>();
 		System.out.println("Enter no. of stringss to be added to the Linkedlist");
